@@ -49,7 +49,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="/assets/481839240_1688668942045384_4546068097893802225_n.jpg"
+              src="https://drive.google.com/file/d/1mkt0MA2voOY0FTM2zk-BuV59heriDPCT/view?usp=sharing"
               alt="Developer workspace"
               className="rounded-lg shadow-2xl" height={"600px"} width={"400px"}
             />
